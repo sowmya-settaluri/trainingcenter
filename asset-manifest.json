@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/trainingcenter/static/css/main.77839ed6.chunk.css",
+    "main.js": "/trainingcenter/static/js/main.a58ae574.chunk.js",
+    "main.js.map": "/trainingcenter/static/js/main.a58ae574.chunk.js.map",
+    "runtime-main.js": "/trainingcenter/static/js/runtime-main.be86e43a.js",
+    "runtime-main.js.map": "/trainingcenter/static/js/runtime-main.be86e43a.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/trainingcenter/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.7bfd9c57.chunk.js": "/trainingcenter/static/js/2.7bfd9c57.chunk.js",
+    "static/js/2.7bfd9c57.chunk.js.map": "/trainingcenter/static/js/2.7bfd9c57.chunk.js.map",
+    "static/js/3.0a0ec2f9.chunk.js": "/trainingcenter/static/js/3.0a0ec2f9.chunk.js",
+    "static/js/3.0a0ec2f9.chunk.js.map": "/trainingcenter/static/js/3.0a0ec2f9.chunk.js.map",
+    "index.html": "/trainingcenter/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/trainingcenter/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.77839ed6.chunk.css.map": "/trainingcenter/static/css/main.77839ed6.chunk.css.map",
+    "static/js/2.7bfd9c57.chunk.js.LICENSE.txt": "/trainingcenter/static/js/2.7bfd9c57.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/trainingcenter/static/media/fontawesome-webfont.f7f1738c.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be86e43a.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.7bfd9c57.chunk.js",
+    "static/css/main.77839ed6.chunk.css",
+    "static/js/main.a58ae574.chunk.js"
+  ]
+}

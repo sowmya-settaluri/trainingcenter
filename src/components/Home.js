@@ -5,7 +5,7 @@ const Home = () => {
     return (
     <>
     <div className="body host_version"> 
-<div id="carouselExampleIndicators" className="carousel slide bs-slider box-slider" data-ride="carousel" data-interval="2000" style={{backgroundColor: "#24272c"}}>
+<div id="carouselExampleIndicators" className="carousel slide bs-slider box-slider" data-ride="carousel" data-interval="2000" style={{backgroundColor: "black"}}>
   <ol className="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" className="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
